@@ -1,4 +1,4 @@
-Russian Basic keyboard
+SIL Yupik Cyrillic Keyboard
 ==============
 
 © 2009-2019 SIL International
@@ -8,11 +8,11 @@ Version 1.1
 Description
 -----------
 
-Russian Basic generated from template
+Yupic Cyrillic keyboard based on Russian Basic
 
 Links
 -----
-https://keyman.com/keyboards/basic_kbdru
+
 
 Supported Platforms
 -------------------

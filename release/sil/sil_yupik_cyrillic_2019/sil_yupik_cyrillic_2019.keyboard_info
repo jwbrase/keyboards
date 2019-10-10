@@ -1,14 +1,14 @@
 {
     "license": "mit",
     "languages": [
-        "ru"
+        "ess"
     ],
-	  "description": "Russian Basic generated from template",
+	  "description": "Yupik Cyrillic based on Russian Basic",
   "related": {
-    "russian": {
+    "cyrillic": {
       "deprecates": true
     },
-    "kbdru": {
+    "sil_yupik_cyrillic_2019": {
       "deprecates": true
     }
   }

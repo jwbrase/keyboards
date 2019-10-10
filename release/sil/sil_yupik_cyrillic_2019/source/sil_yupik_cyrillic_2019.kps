@@ -16,29 +16,11 @@
     <Items/>
   </StartMenu>
   <Info>
-    <Name URL="">Russian Basic</Name>
+    <Name URL="">SIL Yupik Cyrillic</Name>
     <Copyright URL="">© 2009-2019 SIL International</Copyright>
     <Author URL=""></Author>
   </Info>
   <Files>
-    <File>
-      <Name>..\build\basic_kbdru.kmx</Name>
-      <Description></Description>
-      <CopyLocation>0</CopyLocation>
-      <FileType>.kmx</FileType>
-    </File>
-    <File>
-      <Name>..\build\basic_kbdru.js</Name>
-      <Description></Description>
-      <CopyLocation>0</CopyLocation>
-      <FileType>.js</FileType>
-    </File>
-    <File>
-      <Name>..\build\basic_kbdru.kvk</Name>
-      <Description></Description>
-      <CopyLocation>0</CopyLocation>
-      <FileType>.kvk</FileType>
-    </File>
     <File>
       <Name>readme.htm</Name>
       <Description></Description>
@@ -70,15 +52,6 @@
       <FileType>.htm</FileType>
     </File>
   </Files>
-  <Keyboards>
-    <Keyboard>
-      <Name>Russian Basic</Name>
-      <ID>basic_kbdru</ID>
-      <Version>1.1</Version>
-      <Languages>
-        <Language ID="ru">Russian</Language>
-      </Languages>
-    </Keyboard>
-  </Keyboards>
+  <Keyboards/>
   <Strings/>
 </Package>
