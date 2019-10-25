@@ -13,12 +13,12 @@ c Source KeyboardID: 00000419
 
 store(&VERSION) '10.0'
 store(&TARGETS) 'any'
-store(&VISUALKEYBOARD) 'sil_yupik_cyrillic_2019.kvks'
-store(&BITMAP) 'sil_yupik_cyrillic_2019.ico'
-store(&LAYOUTFILE) 'sil_yupik_cyrillic_2019.keyman-touch-layout'
+store(&VISUALKEYBOARD) 'sil_yupik_cyrillic_ru.kvks'
+store(&BITMAP) 'sil_yupik_cyrillic_ru.ico'
+store(&LAYOUTFILE) 'sil_yupik_cyrillic_ru.keyman-touch-layout'
 store(&COPYRIGHT) '© 2009-2019 SIL International'
-store(&KEYBOARDVERSION) '1.1'
-store(&NAME) 'SIL Yupik Cyrillic 2019'
+store(&KEYBOARDVERSION) '0.9'
+store(&NAME) 'SIL Yupik Cyrillic RU'
 
 begin Unicode > use(main)
 
@@ -146,6 +146,16 @@ group(main) using keys
 + [CAPS K_R] > U+041a
 + [NCAPS SHIFT K_R] > U+041a
 + [CAPS SHIFT K_R] > U+043a
+
+U+043a + [NCAPS K_R] > U+049b
+U+041a + [CAPS K_R] > U+049a
+U+041a + [NCAPS SHIFT K_R] > U+049a
+U+043a + [CAPS SHIFT K_R] > U+049b
+
+U+049b + [NCAPS K_R] > U+043a
+U+049a + [CAPS K_R] > U+041a
+U+049a + [NCAPS SHIFT K_R] > U+041a
+U+049b + [CAPS SHIFT K_R] > U+043a
 
 + [NCAPS K_S] > U+044b
 + [CAPS K_S] > U+042b

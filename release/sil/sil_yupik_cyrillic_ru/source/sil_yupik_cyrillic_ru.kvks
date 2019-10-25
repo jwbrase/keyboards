@@ -2,9 +2,10 @@
 <visualkeyboard>
   <header>
     <version>10.0</version>
-    <kbdname>sil_yupik_cyrillic_2019</kbdname>
+    <kbdname>sil_yupik_cyrillic_ru</kbdname>
     <flags>
       <key102/>
+      <displayunderlying/>
       <usealtgr/>
     </flags>
   </header>
