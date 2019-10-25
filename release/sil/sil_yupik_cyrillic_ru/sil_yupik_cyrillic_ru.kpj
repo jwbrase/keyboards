@@ -58,6 +58,46 @@
       </Details>
     </File>
     <File>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <Filename>readme.htm</Filename>
+      <Filepath>source\readme.htm</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.htm</FileType>
+      <ParentFileID>id_b92e54d3c31523102634af0f4b0174bb</ParentFileID>
+    </File>
+    <File>
+      <ID>id_78ac6cf938777002a2f3309a49e410df</ID>
+      <Filename>LayoutU_.png</Filename>
+      <Filepath>source\welcome\LayoutU_.png</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.png</FileType>
+      <ParentFileID>id_b92e54d3c31523102634af0f4b0174bb</ParentFileID>
+    </File>
+    <File>
+      <ID>id_5b8d871dc27f823f9b18bf23f0a05898</ID>
+      <Filename>LayoutU_RA.png</Filename>
+      <Filepath>source\welcome\LayoutU_RA.png</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.png</FileType>
+      <ParentFileID>id_b92e54d3c31523102634af0f4b0174bb</ParentFileID>
+    </File>
+    <File>
+      <ID>id_e58372ce333f6fd1591720ba6a2f528a</ID>
+      <Filename>LayoutU_S.png</Filename>
+      <Filepath>source\welcome\LayoutU_S.png</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.png</FileType>
+      <ParentFileID>id_b92e54d3c31523102634af0f4b0174bb</ParentFileID>
+    </File>
+    <File>
+      <ID>id_724e5b4c63f10bc0abf7077f7c3172fc</ID>
+      <Filename>welcome.htm</Filename>
+      <Filepath>source\welcome\welcome.htm</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.htm</FileType>
+      <ParentFileID>id_b92e54d3c31523102634af0f4b0174bb</ParentFileID>
+    </File>
+    <File>
       <ID>id_6b4c08facca2fb35e0a7ae8cc2ab743f</ID>
       <Filename>sil_yupik_cyrillic_ru.ico</Filename>
       <Filepath>source\sil_yupik_cyrillic_ru.ico</Filepath>

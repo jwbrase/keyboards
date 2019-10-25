@@ -55,11 +55,11 @@
       <key vkey="K_PERIOD">ю</key>
       <key vkey="K_SLASH">.</key>
       <key vkey="K_BKQUOTE">ё</key>
-      <key vkey="K_LBRKT">х</key>
       <key vkey="K_BKSLASH">\</key>
       <key vkey="K_RBRKT">ъ</key>
       <key vkey="K_QUOTE">э</key>
       <key vkey="K_oE2">\</key>
+      <key vkey="K_LBRKT">х</key>
     </layer>
     <layer shift="S">
       <key vkey="K_SPACE"></key>
