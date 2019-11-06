@@ -1,7 +1,8 @@
 Yupik Cyrillic Change History
 ====================
 1.0 (2019-10-9)
-Copied from Russian Basic 1.1
+-----------------
+*Copied from Russian Basic 1.1
 
 Russian Basic Change History
 ====================
